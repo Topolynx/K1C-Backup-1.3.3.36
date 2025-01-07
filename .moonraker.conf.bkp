@@ -66,3 +66,5 @@ channel = beta
 repo = fluidd-core/fluidd
 path = /usr/data/fluidd
 
+[simplyprint]
+
